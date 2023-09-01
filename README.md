@@ -1,4 +1,4 @@
-#Gif App!
+# Gif App!
 
 En esta aplicacion consumo la API de giphy para buscar un gif que coincida con el valor del input ingresado. 
 Escribe lo que quieres ver en el input y gifs relacionados a tu peticion apareceran en la pantalla!
